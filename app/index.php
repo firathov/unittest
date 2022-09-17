@@ -25,7 +25,7 @@
         <input name="number2" type="text" class="form-control inputField" />
         <input name="submit" type="submit" value="Calculate" class="btn btn-primary" />
     </form>
-    <?php echo "Hello world!!!"?>
+    <?php echo "Hello Mars!!!"?>
 </div>
 </body>
 </html>
